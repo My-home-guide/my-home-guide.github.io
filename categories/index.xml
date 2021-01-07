@@ -4,16 +4,6 @@
     <title>Categories on ExampleSite</title>
     <link>https://my-home-guide.github.io/categories/</link>
     <description>Recent content in Categories on ExampleSite</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://my-home-guide.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tech</title>
-      <link>https://my-home-guide.github.io/categories/tech/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://my-home-guide.github.io/categories/tech/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://my-home-guide.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://my-home-guide.github.io/post/nextpage/</loc>
+    <loc>https://my-home-guide.github.io/post/doors/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
@@ -58,28 +58,7 @@
   </url>
   
   <url>
-    <loc>https://my-home-guide.github.io/post/testpage/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://my-home-guide.github.io/categories/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://my-home-guide.github.io/tags/tag1/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://my-home-guide.github.io/tags/tag2/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://my-home-guide.github.io/categories/tech/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
